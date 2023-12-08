@@ -1,5 +1,5 @@
 # RandomizedSphereVolumeCalculator
-Calculates the volume of a sphere with a randomized sphere.
+Calculates the volume of a sphere with a randomized sphere. Uses Math Random and Fraction
 1. Asks for the first float
 2. Asks for the second float
 3. Generates a float between the first and second float
